@@ -1,0 +1,11 @@
+[project]
+name = "week-6-lecture-prep-liamdormon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.4.3",
+    "pytest>=9.0.2",
+    "pytest-cov>=7.0.0",
+]
